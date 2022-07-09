@@ -1,4 +1,4 @@
-# infinity-scroll-v1-javascript-study
+# infinity-scroll-v2-react-study
 
 This project was created in React after the completion of the Udemy course, [JavaScript Web Project: 20 Projects to Build Your Portfolio](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/).
 
